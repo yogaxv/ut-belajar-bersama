@@ -1,0 +1,19 @@
+GIT, aplikasi yang diinstall di lokal (VCS lokal)
+software : version control system 
+tugas1.docx
+tugas1_revisi.docx ---komputer a
+tugas2_revisi.docx ---komputer b
+tugas3_revisi.docx ---komputer c
+tugas4_revisi.docx
+
+Resiko hilang, kena virus, dll
+GITHUB, VCS yang bersifat distribusi 
+GITLAB, 
+BITBUCKET
+
+VCS ada 2 : 
+- versi lokal
+- versi distribusi
+
+SERVER UT
+tugas1.docx : simpan dilokal kita--->melakukan perubahan -> simpan -> server ut 
