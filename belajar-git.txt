@@ -1,0 +1,34 @@
+GIT
+GITHUB
+GITLAB
+BITBUCKET
+
+- SOftware : Version Control System
+
+tugas1.docx
+tugas1_revisi.docx
+tugas1_revisi_1.docx  ---komputer A,
+tugas1_revisi_2.docx  ---komputer B,
+tugas1_revisi_3.docx
+tugas1_revisi_4.docx
+
+Resiko Hilang, kena virus, dll
+
+VCS ada 2 jenis :
+- versi local
+- versi distribusi
+
+
+SERVER UT
+
+tugas1.docx : simpan di local kita -> kemudian kita lakukan perubahn -> simpan -> masukan ke server UT
+johny bisa akses  tugas1.docx -> kemudian  lakukan perubahn -> simpan -> masukan ke server UT
+
+file pc 1 dan pc 2 ->
+
+GIT -> vcs  local ;
+
+vcs  distribusi ;
+GITHUB
+GITLAB
+BITBUCKET
